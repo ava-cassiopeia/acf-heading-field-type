@@ -2,13 +2,13 @@
 
 /*
 Plugin Name: Advanced Custom Fields: Heading
-Plugin URI: https://seo.com
+Plugin URI: https://github.com/aeolingamenfel/acf-heading-field-type
 Description: Adds ACF field that lets you select the heading level.
 Version: 1.0.0
 Author: Ivan Mattie
 Author URI: https://www.ivanmattie.com/
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: ISC
+License URI: https://opensource.org/licenses/ISC
 */
 
 // exit if accessed directly
